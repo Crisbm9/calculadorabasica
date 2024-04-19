@@ -12,6 +12,7 @@ Para instalar tienes dos opciones:
 
 La primera opción es descarga el zip de la siguiente url:
 [https://github.com/Crisbm9/calculadorabasica.git](https://github.com/Crisbm9/calculadorabasica.git)
+
 O la segunda opción es en el shell haz un git clone.
 ```shell
 git clone https://github.com/Crisbm9/calculadorabasica.git
