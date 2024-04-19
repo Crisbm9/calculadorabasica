@@ -2,6 +2,7 @@
 - Versión: 0.3
 - Autor: **Cristina**
 - Licencia: MIT
+
 ![captacion de la aplicacion](captura.jpg)
 
 ## Descripción general:
@@ -19,6 +20,7 @@ http://localhost:3000/calculadorabasica
 ```
 ## Tecnologías utilizadas.
 **html, css y js**
+
 ![icono-html](./html.svg)
 ![icono-html](./css.svg)
 ![icono-html](./js.svg)
